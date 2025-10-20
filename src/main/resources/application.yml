@@ -2,8 +2,8 @@ spring:
   security.oauth2.client:
     registration:
       google:
-        client-id: 95089533109-s4rehp8hpt7qpm587hle1cuej6f1cset.apps.googleusercontent.com
-        client-secret: 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
+        client-id: ""
+        client-secret: ""
       github:
-        client-id: Ov23liSiNC2wTUEStiyN
-        client-secret: db97cc7f27e4f7c0378ff8b13df1ed83f2df012f
+        client-id: ""
+        client-secret: ""
