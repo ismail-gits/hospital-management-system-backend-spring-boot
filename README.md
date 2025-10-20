@@ -18,8 +18,6 @@ This project implements a monolithic hospital management system with clear separ
 
 ![UML Diagram](https://github.com/ismail-gits/hospital-management-system-backend-spring-boot/blob/main/uml-diagram.png)
 
-> **Note:** Replace the image URL above with your actual architecture diagram link
-
 ## 🎯 Key Features
 
 ### 1. **Multi-Role Authentication & Authorization**
